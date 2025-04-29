@@ -1,4 +1,7 @@
-<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+<?php 
+namespace Webelitee\CodestarFramework\Classes;
+
+if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
 /**
  *
  * Setup Class
