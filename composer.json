@@ -1,0 +1,18 @@
+{
+    "name": "webelitee/codestar-framework",
+    "description": "A Simple and Lightweight WordPress Option Framework for Themes and Plugins",
+    "type": "framework",
+    "license": "100% GPL",
+    "autoload": {
+        "psr-4": {
+            "Webelitee\\CodestarFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "WebElite",
+            "email": "webelitee@gmail.com"
+        }
+    ],
+    "require": {}
+}
