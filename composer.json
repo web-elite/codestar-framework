@@ -2,7 +2,7 @@
     "name": "webelitee/wp-codestar-framework-options",
     "description": "A Simple and Lightweight WordPress Option Framework for Themes and Plugins",
     "type": "framework",
-    "license": "100% GPL",
+    "license": "GPL-3.0",
     "autoload": {
         "psr-4": {
             "Webelitee\\CodestarFramework\\": "src/"
