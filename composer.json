@@ -14,5 +14,6 @@
             "email": "webelitee@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
